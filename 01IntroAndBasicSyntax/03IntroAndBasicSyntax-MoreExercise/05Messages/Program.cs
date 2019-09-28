@@ -45,7 +45,6 @@ namespace _05Messages
                     default:
                         break;
                 }
-
             }
 
             Console.WriteLine(message);
