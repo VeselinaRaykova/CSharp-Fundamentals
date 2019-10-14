@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BD9FC78F-6EE8-480F-8D3B-DAD57128C821}</ProjectGuid>
+    <ProjectGuid>{AD368783-0202-4F8C-AFD2-F81A72C83E27}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_11RefactorVolumeOfPyramid</RootNamespace>
-    <AssemblyName>11RefactorVolumeOfPyramid</AssemblyName>
+    <RootNamespace>_07WaterOverflow</RootNamespace>
+    <AssemblyName>07WaterOverflow</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BD9FC78F-6EE8-480F-8D3B-DAD57128C821}</ProjectGuid>
+    <ProjectGuid>{5D4E37A7-84FA-4AF9-B401-31573781A88A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_11RefactorVolumeOfPyramid</RootNamespace>
-    <AssemblyName>11RefactorVolumeOfPyramid</AssemblyName>
+    <RootNamespace>_10PokeMon</RootNamespace>
+    <AssemblyName>10PokeMon</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

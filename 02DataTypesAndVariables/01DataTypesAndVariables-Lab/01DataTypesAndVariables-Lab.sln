@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09CharsToString", "09CharsT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10LowerOrUpper", "10LowerOrUpper\10LowerOrUpper.csproj", "{734D41EB-A64B-46FF-81DB-BCAB27663ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11RefactorVolumeOfPyramid", "11RefactorVolumeOfPyramid\11RefactorVolumeOfPyramid.csproj", "{BD9FC78F-6EE8-480F-8D3B-DAD57128C821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12RefactorSpecialNumbers", "12RefactorSpecialNumbers\12RefactorSpecialNumbers.csproj", "{313FBEF2-7244-4F48-9B14-ED615B0DD9F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{734D41EB-A64B-46FF-81DB-BCAB27663ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{734D41EB-A64B-46FF-81DB-BCAB27663ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{734D41EB-A64B-46FF-81DB-BCAB27663ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9FC78F-6EE8-480F-8D3B-DAD57128C821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9FC78F-6EE8-480F-8D3B-DAD57128C821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9FC78F-6EE8-480F-8D3B-DAD57128C821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9FC78F-6EE8-480F-8D3B-DAD57128C821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313FBEF2-7244-4F48-9B14-ED615B0DD9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313FBEF2-7244-4F48-9B14-ED615B0DD9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313FBEF2-7244-4F48-9B14-ED615B0DD9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313FBEF2-7244-4F48-9B14-ED615B0DD9F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
