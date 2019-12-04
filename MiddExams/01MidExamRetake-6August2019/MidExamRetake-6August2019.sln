@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01BlackFlag", "01BlackFlag\01BlackFlag.csproj", "{A5580CB7-8A5C-4D18-B901-E37510AEC49A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TreasureHunt", "02TreasureHunt\02TreasureHunt.csproj", "{97084A34-F8BC-41F3-8AB3-B6F1FA809988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ManOWar", "03ManOWar\03ManOWar.csproj", "{5CD17CEB-6406-434D-A47D-EFEFFCC90413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5580CB7-8A5C-4D18-B901-E37510AEC49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5580CB7-8A5C-4D18-B901-E37510AEC49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5580CB7-8A5C-4D18-B901-E37510AEC49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5580CB7-8A5C-4D18-B901-E37510AEC49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97084A34-F8BC-41F3-8AB3-B6F1FA809988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97084A34-F8BC-41F3-8AB3-B6F1FA809988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97084A34-F8BC-41F3-8AB3-B6F1FA809988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97084A34-F8BC-41F3-8AB3-B6F1FA809988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD17CEB-6406-434D-A47D-EFEFFCC90413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD17CEB-6406-434D-A47D-EFEFFCC90413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD17CEB-6406-434D-A47D-EFEFFCC90413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD17CEB-6406-434D-A47D-EFEFFCC90413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
